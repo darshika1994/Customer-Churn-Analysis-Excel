@@ -1,7 +1,5 @@
 # Customer-Churn-Analysis-Excel
 
-# Customer Churn Analysis in Excel
-
 ## Overview
 This project analyzes customer churn data for a fictitious telecom company, Databel. The aim is to investigate the reasons behind customer churn and provide actionable insights to help reduce churn rates.
 
